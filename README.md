@@ -96,6 +96,6 @@ This project demonstrates real-world **Data Analyst / Business Analyst skills**,
 ## 📬 Contact  
 If you’re a recruiter or hiring manager looking for a **Data Analyst / Business Analyst**, feel free to connect.
 
-- **LinkedIn:** _Add your link_  
-- **GitHub:** _Add your link_  
+- **LinkedIn:** _https://www.linkedin.com/in/thanushya-elugam_  
+- **GitHub:** _https://github.com/Thanushya56_  
 
